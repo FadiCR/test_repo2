@@ -15,3 +15,6 @@ def date():
 
 def multiply():
     return 3*4
+
+def error(theoretical, experimental):
+    return (theoretical-experimental)/theoretical
