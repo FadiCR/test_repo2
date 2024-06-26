@@ -9,3 +9,9 @@ def divide(x,y):
 
 def time():
     print("it is 10 AM we need coffee")
+
+def date():
+    print("6/26/2024")
+
+def multiply():
+    return 3*4
