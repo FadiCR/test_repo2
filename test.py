@@ -6,3 +6,6 @@ def subtract(x,y):
 
 def divide(x,y):
     return x/y
+
+def time():
+    print("it is 10 AM we need coffee")
