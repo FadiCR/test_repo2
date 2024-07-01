@@ -18,3 +18,13 @@ def multiply():
 
 def error(theoretical, experimental):
     return (theoretical-experimental)/theoretical
+
+def Fadi():
+    print("Fadi")
+
+def manager():
+    manager = "Youssef Chahwan"
+    print("Fadi's manager is" + manager)
+
+def day():
+    print("today is Monday July 1, 2024")
