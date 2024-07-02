@@ -31,3 +31,6 @@ def day():
 
 def lunch():
     print("kebbe bl sayniye")
+
+def annoying():
+    print("Yasmine is annoying")
