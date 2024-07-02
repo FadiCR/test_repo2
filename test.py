@@ -28,3 +28,6 @@ def manager():
 
 def day():
     print("today is Monday July 1, 2024")
+
+def lunch():
+    print("kebbe bl sayniye")
