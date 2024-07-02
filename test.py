@@ -34,3 +34,6 @@ def lunch():
 
 def annoying():
     print("Yasmine is annoying")
+
+def workout():
+    print("today is leg day")
