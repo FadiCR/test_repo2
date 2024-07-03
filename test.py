@@ -13,8 +13,8 @@ def time():
 def date():
     print("6/26/2024")
 
-def multiply():
-    return 3*4
+def multiply(x, y):
+    return x * y
 
 def error(theoretical, experimental):
     return (theoretical-experimental)/theoretical
@@ -37,3 +37,9 @@ def annoying():
 
 def workout():
     print("today is leg day")
+
+def requirements():
+    print("We need a machine to run flowise there.")
+
+def requirements2():
+    print("We need to feed the model correct documents to improve it's output.")
