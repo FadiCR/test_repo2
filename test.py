@@ -46,3 +46,6 @@ def requirements2():
 
 print("test")
 
+print("this is another test")
+
+print("this is a third test")
