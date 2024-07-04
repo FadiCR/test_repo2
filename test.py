@@ -11,7 +11,7 @@ def time():
     print("it is 10 AM we need coffee")
 
 def date():
-    print("6/26/2024")
+    print("7/3/2024")
 
 def multiply(x, y):
     return x * y
@@ -43,3 +43,6 @@ def requirements():
 
 def requirements2():
     print("We need to feed the model correct documents to improve it's output.")
+
+print("test")
+
